@@ -14,7 +14,7 @@ div.page {
 div.main-page {
     background: #E5FEFF;
     margin: auto;
-    min-height: 100vh;
+    min-height: 80vh;
 }
 
 div.main-text {
@@ -29,7 +29,7 @@ div.main-text {
     background: #ffffff;
     padding: 50px;
     min-width: 800px;
-    min-height: 100vh;
+    min-height: 80vh;
 }
 
 a {
